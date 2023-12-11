@@ -1,5 +1,5 @@
 ## AdventOfCode
-My solutions for Advent of Code tasks programmed in LabVIEW 2021.
+My solutions for [Advent of Code](https://adventofcode.com/) tasks programmed in LabVIEW 2021.
 
 ### Dependencies
 Open G Toolkit
